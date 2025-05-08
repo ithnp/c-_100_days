@@ -7,7 +7,63 @@ https://docs.google.com/spreadsheets/d/1PN3PMkpPRpfI0T8RgZNKNPCCA2FfUJaIMwWnFEEy
 Setiap minggunya ada taget TOPIK yang harus di selesaikan, saya membaginya berdasarkan branches yang ada di git, Berikut adalah branch yang ada di repository ini :
 
 1. MINGGU 1 
-    TARGET TOPIK : Introduction and Basic Syntax
-    LINK BRANCH : https://github.com/ithnp/c-_100_days/tree/Introduction-and-Basic-Syntax
+        TARGET TOPIK    : Introduction and Basic Syntax
+        LINK BRANCH     : https://github.com/ithnp/c-_100_days/tree/Introduction-and-Basic-Syntax
 
 2. MINGGU 2
+        TARGET TOPIK    : CONTROL FLOW
+        LINK BRANCH     : 
+
+3. MINGGU 3
+        TARGET TOPIK    : FUNCTIONS AND RECURSION
+        LINK BRANCH     : 
+
+4. MINGGU 4
+        TARGET TOPIK    : ARRAYS AND STRINGS
+        LINK BRANCH     :
+
+5. MINGGU 5
+        TARGET TOPIK    : POINTERS AND REFERENCES
+        LINK BRANCH     :
+
+6. MINGGU 6
+        TARGET TOPIK    : STRUKTUR AND ENUMERATIONS
+        LINK BRANCH     :
+
+7. MINGGU 7
+        TARGET TOPIK    : OOP BASICS
+        LINK BRANCH     :
+
+8. MINGGU 8
+        TARGET TOPIK    : ADVANCE OOP
+        LINK BRANCH     :
+
+9. MINGGU 9
+        TARGET TOPIK    : STL
+        LINK BRANCH     :
+
+10. MINGGU 10
+        TARGET TOPIK    : FILE I/O & EXCEPTION HANDLING
+        LINK BRANCH     :
+
+11. MINGGU 11
+        TARGET TOPIK    : ADVANCE TAMPLATES AND SMART POINTERS
+        LINK BRANCH     :
+
+12. MINGGU 12
+        TARGET TOPIK    : STL ADVANCED (MAP, SET, PRIORITY_QUEUE)
+        LINK BRANCH     :
+
+13. MINGGU 13
+        TARGER TOPIK    : MULTITHREADING AND CONCURRENCY
+        LINK BRANCH     : 
+    
+14. MINGGU 14
+        TARGET TOPIK    : FINAL PROJECT WEEK
+        LINK BRANCH     :
+
+15. MINGGU 15
+        TARGET TOPIK    : ADDTIONAL PRACTICE WEEK 14
+        LINK BRANCH     :
+
+Setiap minggunya saya akan mengupdate LINK BRANCH yang ada diatas dengan link yang sesuai dengan topik yang sedang dibahas
