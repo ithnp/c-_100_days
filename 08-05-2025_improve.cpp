@@ -8,9 +8,9 @@ Improve pembelajaran tanggal 08-05-2025
 using namespace std;
 
 main(){
-    int umur;
-    const int year = 365;
-    const int avg_umur = year*65;
+    int umur; //ini variabel umur dengan tipe data integer
+    const int year = 365; //ini variable year dengan tipe data integer dan nilai konstanta 365
+    const int avg_umur = year*65; // ini variabel avg_umur dengan tipe data integer dan nilai konstanta 65*365
 
     cout << "Hi, saya akan menghitung sudah berapa lama anda hidup\n";
     
