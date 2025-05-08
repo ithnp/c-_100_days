@@ -7,12 +7,12 @@ https://docs.google.com/spreadsheets/d/1PN3PMkpPRpfI0T8RgZNKNPCCA2FfUJaIMwWnFEEy
 Setiap minggunya ada taget TOPIK yang harus di selesaikan, saya membaginya berdasarkan branches yang ada di git, Berikut adalah branch yang ada di repository ini :
 
 # MINGGU 1 
-TARGET TOPIK    : Introduction and Basic Syntax
-LINK BRANCH     : https://github.com/ithnp/c-_100_days/tree/Introduction-and-Basic-Syntax
+- TARGET TOPIK    : Introduction and Basic Syntax
+- LINK BRANCH     : https://github.com/ithnp/c-_100_days/tree/Introduction-and-Basic-Syntax
 
-- MINGGU 2
-        TARGET TOPIK    : CONTROL FLOW
-        LINK BRANCH     : 
+# MINGGU 2
+- TARGET TOPIK    : CONTROL FLOW
+- LINK BRANCH     : 
 
 3. MINGGU 3
         TARGET TOPIK    : FUNCTIONS AND RECURSION
