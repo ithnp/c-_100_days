@@ -23,7 +23,7 @@ main(){
             cin.ignore(10000, '\n'); // kemudian membuang karakter sisa yang telah diinput hingga 10.000 karakter, jika tidak ada ini maka akan di looping terus menerus
             cout << "Andjing lu ya !, masukin umur yang bener !\n"; // kemudian tampilkan alertnya
         }else{
-            break;
+            break; // jika sudah sesuai maka keluar dari while
         }
     }
     cout 
