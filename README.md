@@ -13,7 +13,7 @@ Understand C++ syntax, comments, and semicolons
 
 # PEMBELAJARAN 08/05/2025
 Explore data types: int, float, char, bool
-- Materi pembelajaran   : 
+- Materi pembelajaran   : https://docs.google.com/document/d/1j364t-9PpcCiPhPywVL6cpZLN93L0QsbRA5eHlbBkYw/edit?usp=sharing
 
 # PEMBELAJARAN 09/05/2025
 Learn about variables and constants
