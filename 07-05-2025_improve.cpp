@@ -33,3 +33,16 @@ main(){
         cout << "Wah, ternyata kamu cukup muda dari saya. Saya berumur " << bot_age << " tahun dan kamu lebih muda " << different << " Tahun dari saya";
     }
 }
+
+
+/*
+Output yang akan dihasilkan :
+
+Hi, nama saya adalah ITHNP AI, saya adalah AI yang dapat membantu kamu dalam pembelajaran.
+Tapi sebelum itu, siapa nama depan kamu ?Heisen
+Kemudian, Siapa nama belakang kamu ?Berg
+Baik, salam kenal Heisen Berg
+ Berapa umur kamu >30
+Wah, ternyata kamu cukup muda dari saya. Saya berumur 50 tahun dan kamu lebih muda 20 Tahun dari saya
+
+*/

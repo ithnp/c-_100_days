@@ -14,7 +14,7 @@ main(){
     string nama = "HeisenBerg"; //tipe data string
     int umur = 20; //tipe data integer
     float tinggi = 170.5; //tipe data float
-    char initial = 'HB'; //tipe data char
+    char initial = 'H'; //tipe data char
     bool isLakiLaki = true; //tipe data bool
 
     cout << "Nama : " << nama << "\nInsial : " << initial <<"\nTinggi : " << tinggi << " cm\nUmur : " << umur << " Tahun\nJenis Kelamin : " << (isLakiLaki ? "Laki - Laki" : "Perempuan");

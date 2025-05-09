@@ -21,5 +21,11 @@ int main(){
     << " Nama lengkap saya adalah " << frist_name << " " << last_name;
 }
 
+/*
+Output yang akan keluar ialah :
+Nama depan saya adalah Heisen Nama belakang saya adalah Berg
+Nama lengkap saya adalah Heisen Berg
+
+*/
 
 
