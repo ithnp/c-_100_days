@@ -13,11 +13,11 @@ Understand C++ syntax, comments, and semicolons
 
 # PEMBELAJARAN 08/05/2025
 Explore data types: int, float, char, bool
-- Materi pembelajaran   : https://docs.google.com/document/d/1mn4yIoDw4FiKKUd5SUorU7Q8UT4UbFv_Wgng4-NquWU/edit?usp=sharing
+- Materi pembelajaran   : 
 
 # PEMBELAJARAN 09/05/2025
 Learn about variables and constants
-- Materi pembelajaran   : 
+- Materi pembelajaran   : https://docs.google.com/document/d/1mn4yIoDw4FiKKUd5SUorU7Q8UT4UbFv_Wgng4-NquWU/edit?usp=sharing
 
 # PEMBELAJARAN 10/05/2025
 Practice with basic operators
