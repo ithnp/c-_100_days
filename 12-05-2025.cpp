@@ -1,3 +1,11 @@
+/*
+JUDUL :
+Weekly Challange
+
+Link pembelajaran dan penjelasan
+https://docs.google.com/document/d/1x4eO0iIMLFKgZCSC7FhOJMljAGMBtYIsj0lLu7z9ANk/edit?usp=sharing
+*/
+
 #include <iostream>
 using namespace std;
 
