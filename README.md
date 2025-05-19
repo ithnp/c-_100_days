@@ -1,4 +1,4 @@
-# INTRODUCTION AND BASIC SYNTAX
+# INTRODUCTION AND BASIC SYNTAXX
 # MINGGU 1
 
 Branch ini mempelajari dasar dasar c++ dan basic sintaxnya.
