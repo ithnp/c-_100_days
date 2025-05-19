@@ -6,7 +6,8 @@ materi yang akan dipelajari setiap harinya sebagai berikut:
 
 # PEMBELAJARAN 13/05/2025
 if and else statements
-- Materi pembelajaran   : 
+- Materi pembelajaran   : https://docs.google.com/document/d/10JINVV_bpRMI66kGTVdVAgy5Bd2vuEUwIIXzcFX-884/edit?usp=sharing
+
 # PEMBELAJARAN 14/05/2025
 else if and nested if
 - Materi pembelajaran   : 
