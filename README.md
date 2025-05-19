@@ -21,12 +21,12 @@ Learn about variables and constants
 
 # PEMBELAJARAN 10/05/2025
 Practice with basic operators
-- Materi pembelajaran   : 
+- Materi pembelajaran   : https://docs.google.com/document/d/1sLNbzHXeO5gtpMQ066F4GYeBo4kBDIOnzQMFJbzJ7-Q/edit?usp=sharing
 
 # PEMBELAJARAN 11/05/2025
 Input/output using cin and cout
-- Materi pembelajaran   : 
+- Materi pembelajaran   : https://docs.google.com/document/d/1_k1tepYB9SUK0jorpqoVgGK6dT3x7TIXicOa-lwmBeI/edit?usp=sharing
 
-# PEMBELAJARAN 11/05/2025
+# PEMBELAJARAN 12/05/2025
 Weekly Challenge => Write a program to calculate the area of a rectangle
-- Materi pembelajaran   :
+- Materi pembelajaran   : https://docs.google.com/document/d/1x4eO0iIMLFKgZCSC7FhOJMljAGMBtYIsj0lLu7z9ANk/edit?usp=sharing
