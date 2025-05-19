@@ -12,7 +12,7 @@ Setiap minggunya ada taget TOPIK yang harus di selesaikan, saya membaginya berda
 
 # MINGGU 2
 - TARGET TOPIK    : CONTROL FLOW
-- LINK BRANCH     : 
+- LINK BRANCH     : https://github.com/ithnp/c-_100_days/tree/Control-Flow
 
 # MINGGU 3
 - TARGET TOPIK    : FUNCTIONS AND RECURSION
