@@ -10,7 +10,7 @@ https://docs.google.com/document/d/1TQ_RsM2NL9T70OqGVFyTDSAa0bZts9pY0WmiLLhwppw/
 using namespace std;
 
 main(){
-    int a, b, menu_multi_level,pilihan;
+    int a, b,pilihan;
     char kalkulator;
     bool is_keluar = false;
 
@@ -55,6 +55,7 @@ main(){
                     default:
                         cout << "Pilihan Tidak Tersedia\n";
                 }
+                break;
             case 2:
                 cout << "=======================\n"
                 << "KALKULATOR SEDERHANA\n"
@@ -86,6 +87,7 @@ main(){
                     default:
                         cout << "Pilihan tidak tersedia\n";
                 }
+                break;
             case 3:
                 cout << "=== PILIH KATEGORI MENU ===\n"
                 << "1. Makanan\n2. Minuman\n"
@@ -117,15 +119,36 @@ main(){
                         }
                     case 2:
                         cout << "=== PILIH MENU MINUMAN ===\n"
-                        << "1. Es Teh\n2. Jus Buah\n3. Kopi\n";
+                        << "1. Es Teh\n2. Jus Buah\n3. Kopi\n"
+                        << "Pilih ( 1 - 3 ) : ";
+
                         cin >> pilihan;
 
                         switch(pilihan){
                             case 1:
-                                
+                                cout << "Pilihan Anda : Es Teh\n";
+                                break;
+                            case 2:
+                                cout << "Pilihan Anda : Jus Buah\n";
+                                break;
+                            case 3:
+                                cout << "Pilihan Anda : Kopi \n";
+                                break;
+                            default:{
+                                cout << "Error : Pilihan tidak tersedia\n";
+                            }
                         }
                 }
-                
+                break;
+            case 4:{
+                is_keluar = true;
+                cout << "Terima kasih telah menggunakan program ini\n";
+                }
+                break;
+            default:{
+                cout << "Pilihan tidak ada\n";       
+                }
+                break;   
         }   
 
     }
