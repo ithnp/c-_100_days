@@ -18,7 +18,7 @@ switch statement
 
 # PEMBELAJARAN 16/05/2025
 while loops
-- Materi pembelajaran   : 
+- Materi pembelajaran   : https://docs.google.com/document/d/1xE7Dn3hGhm7LacxZ62dhBFb9Qdxt6V5JvoQfPztREok/edit?usp=sharing
 
 # PEMBELAJARAN 17/05/2025
 for loops
